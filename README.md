@@ -34,8 +34,13 @@ A responsive eCommerce interface inspired by Shopee Vietnam.
 🖥️ Portfolio Website (In Progress)
 Built with React & Tailwind CSS to showcase personal skills.
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tranbaokien2005&show_icons=true&theme=github_dark" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaokien2005&layout=compact&theme=github_dark" height="180"/> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tranbaokien2005&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaokien2005&layout=compact&theme=github_dark" height="180"/>
+</p>
+
 
 📬 Connect With Me
 
