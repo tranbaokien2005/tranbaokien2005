@@ -60,3 +60,8 @@ Built with React & Tailwind CSS to showcase personal skills.
 💼 Aiming to become a Software Engineer who builds meaningful tech solutions.
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* — *Cory House*
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tranbaokien2005&theme=onedark" />
+</p>
+
