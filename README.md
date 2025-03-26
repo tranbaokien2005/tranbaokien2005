@@ -46,4 +46,13 @@ A responsive eCommerce web interface inspired by Shopee Vietnam.
 
 🛠️ **In Progress**: [Portfolio Website](https://github.com/tranbaokien2005/portfolio) — built with **React** & **Tailwind CSS**
 
+## 📌 Highlights
+
+- 🚀 Currently building my [Portfolio Website](https://github.com/tranbaokien2005/portfolio) using **React** and **Tailwind CSS**.
+- 🧠 Practicing Data Structures & Algorithms daily via **LeetCode** to strengthen problem-solving skills.
+- 🌐 Rebuilding UI projects (like Shopee Clone) to improve **HTML/CSS** mastery and responsive design.
+- 🛠️ Planning a **full-stack MERN app** to showcase both frontend and backend capabilities.
+- 🎯 Goal: Land a Software Engineering Internship and contribute to real-world tech solutions.
+
+
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
