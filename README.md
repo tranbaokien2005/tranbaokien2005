@@ -67,8 +67,10 @@ Built with React & Tailwind CSS to showcase personal skills.
 </p>
 
 ## 🐍 GitHub Contributions Snake
+
 <p align="center">
-  <img src="https://github.com/tranbaokien2005/tranbaokien2005/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/tranbaokien2005/tranbaokien2005/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 
