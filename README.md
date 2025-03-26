@@ -31,7 +31,7 @@ Others         : REST APIs, MVC, MVVM, JWT, Firebase
 🛍️ Shopee UI Clone (HTML/CSS/JS)
 A responsive eCommerce interface inspired by Shopee Vietnam.
 
-🖥️ Portfolio Website (In Progress)
+🖥️ *Portfolio Website (In Progress)*
 Built with React & Tailwind CSS to showcase personal skills.
 
 ## 📊 GitHub Stats
@@ -70,4 +70,5 @@ Built with React & Tailwind CSS to showcase personal skills.
 
 💼 Aiming to become a Software Engineer who builds meaningful tech solutions.
 
-“Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
+
