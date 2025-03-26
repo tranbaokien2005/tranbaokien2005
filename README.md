@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Tran%20Bao%20Kien&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="banner" />
+  <img src="https://raw.githubusercontent.com/tranbaokien2005/tranbaokien2005/refs/heads/main/assets/%23B22222%20(1).gif" alt="Banner" />
 </p>
+
 
 <p align="center">
   <b>Aspiring Software Engineer | Computer Science Student | Based in Barrie, Canada</b>
