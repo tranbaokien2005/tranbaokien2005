@@ -29,11 +29,12 @@ A responsive eCommerce web interface inspired by Shopee Vietnam.
 
 ⚙️ In Progress: Portfolio Website using React & Tailwind.
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tranbaokien2005&show_icons=true&theme=github_dark" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaokien2005&layout=compact&theme=github_dark" height="180"/>
 </p>
+
 
 📫 Connect With Me
 
@@ -43,7 +44,6 @@ A responsive eCommerce web interface inspired by Shopee Vietnam.
 
 🧑‍💻 GitHub: github.com/tranbaokien2005
 
-🔨 In Progress: [Portfolio Website](https://github.com/tranbaokien2005/portfolio) using React & Tailwind.
-
+🛠️ **In Progress**: [Portfolio Website](https://github.com/tranbaokien2005/portfolio) — built with **React** & **Tailwind CSS**
 
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
