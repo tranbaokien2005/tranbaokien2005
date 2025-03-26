@@ -59,7 +59,14 @@ Built with React & Tailwind CSS to showcase personal skills.
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* — *Cory House*
 
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tranbaokien2005&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tranbaokien2005&theme=algolia&margin-w=10&margin-h=10"/>
 </p>
+
+## 🐍 GitHub Contributions Snake
+<p align="center">
+  <img src="https://github.com/tranbaokien2005/tranbaokien2005/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
