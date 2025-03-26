@@ -41,7 +41,9 @@ Built with React & Tailwind CSS to showcase personal skills.
 📬 Connect With Me
 ## 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Gmail-Email_Me-red?style=flat&logo=gmail&logoColor=white)](mailto:tranbaokien.2005@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bao-kien-tran) [![GitHub](https://img.shields.io/badge/GitHub-tranbaokien2005-181717?style=flat&logo=github&logoColor=white)](https://github.com/tranbaokien2005)
+[![Email](https://img.shields.io/badge/Gmail-Email_Me-red?style=flat&logo=gmail&logoColor=white)](mailto:tranbaokien.2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bao-kien-tran)
+[![GitHub](https://img.shields.io/badge/GitHub-tranbaokien2005-181717?style=flat&logo=github&logoColor=white)](https://github.com/tranbaokien2005)
 
 
 🔥 Highlights
