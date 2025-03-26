@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Tran%20Bao%20Kien&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tran Bao Kien</h1>
 
 <p align="center">
