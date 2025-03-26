@@ -30,13 +30,13 @@ Tools          : Git, GitHub, VS Code, Postman
 Others         : REST APIs, MVC, MVVM, JWT, Firebase
 ```
 🚀 Projects
-🎬 [Movie Search Android App](https://github.com/tranbaokien2005/movie-search-android-app)
+🎬 [Movie Search Android App](https://github.com/tranbaokien2005/movie-search-android-app) - 
 Built with MVVM, LiveData, and Retrofit. Fetches movie data using OMDB API.
 
-🛍️ Shopee UI Clone (HTML/CSS/JS)
+🛍️ Shopee UI Clone (HTML/CSS/JS) - 
 A responsive eCommerce interface inspired by Shopee Vietnam.
 
-🖥️ Portfolio Website (In Progress)
+🖥️ *Portfolio Website (In Progress)* - 
 Built with React & Tailwind CSS to showcase personal skills.
 
 📊 GitHub Stats
@@ -55,4 +55,4 @@ Built with React & Tailwind CSS to showcase personal skills.
 
 💼 Aiming to become a Software Engineer who builds meaningful tech solutions.
 
-“Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> *“Code is like humor. When you have to explain it, it’s bad.”* — *Cory House*
