@@ -39,9 +39,7 @@ Built with React & Tailwind CSS to showcase personal skills.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tranbaokien2005&show_icons=true&theme=github_dark" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaokien2005&layout=compact&theme=github_dark" height="180"/> </p>
 
 📬 Connect With Me
-[![Email](https://img.shields.io/badge/Gmail-tranbaokien.2005@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:tranbaokien.2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bao-kien-tran)
-[![GitHub](https://img.shields.io/badge/GitHub-tranbaokien2005-181717?style=flat&logo=github)](https://github.com/tranbaokien2005)
+[![Email](https://img.shields.io/badge/Gmail-tranbaokien.2005@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:tranbaokien.2005@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bao-kien-tran)[![GitHub](https://img.shields.io/badge/GitHub-tranbaokien2005-181717?style=flat&logo=github)](https://github.com/tranbaokien2005)
 
 🔥 Highlights
 🔧 Currently building my Portfolio Website using React and Tailwind CSS.
