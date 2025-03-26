@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Bao Kien</h1>
-<h3 align="center">Aspiring Software Engineer | Computer Science Student | Based in Toronto 🇨🇦</h3>
+<h3 align="center">Aspiring Software Engineer | Computer Science Student | Based in Barrie 🇨🇦</h3>
 
 ---
 
