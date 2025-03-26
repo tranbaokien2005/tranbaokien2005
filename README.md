@@ -24,7 +24,7 @@ Web Dev        : HTML, CSS, React, Node.js, Express
 Database       : MongoDB, MySQL  
 Tools          : Git, GitHub, VS Code, Postman  
 Others         : REST APIs, MVC, MVVM, JWT, Firebase
-
+```
 🧩 Current Projects
 🎬 Movie Search Android App
 Built with MVVM, LiveData, Retrofit. Fetches movie data using OMDB API.
@@ -39,10 +39,6 @@ Built with React & Tailwind CSS to showcase personal skills.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tranbaokien2005&show_icons=true&theme=github_dark" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaokien2005&layout=compact&theme=github_dark" height="180"/> </p>
 
 📬 Connect With Me
-## 📬 Connect With Me
-
-## 📬 Connect With Me
-
 ## 📬 Connect With Me
 
 <p align="left">
