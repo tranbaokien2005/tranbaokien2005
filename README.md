@@ -6,7 +6,7 @@
 
 ---
 
-## 💖 About Me
+💖 About Me
 
 - 🎓 Currently pursuing a Bachelor’s degree in **Computer Science** (Georgian College & Lakehead University).
 - 🚀 Passionate about **Software Development** & **Web Technologies**.
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
 ```yaml
 Languages      : JavaScript, Java, Python, C++, SQL  
@@ -39,7 +39,6 @@ Built with React & Tailwind CSS to showcase personal skills.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tranbaokien2005&show_icons=true&theme=github_dark" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaokien2005&layout=compact&theme=github_dark" height="180"/> </p>
 
 📬 Connect With Me
-## 📬 Connect With Me
 
 <p align="left">
   <a href="mailto:tranbaokien.2005@gmail.com">
