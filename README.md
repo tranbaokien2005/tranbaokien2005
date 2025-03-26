@@ -26,8 +26,7 @@ Tools          : Git, GitHub, VS Code, Postman
 Others         : REST APIs, MVC, MVVM, JWT, Firebase
 ```
 🧩 Current Projects
-🎬 Movie Search Android App
-Built with MVVM, LiveData, Retrofit. Fetches movie data using OMDB API.
+🎬 [Movie Search Android App](https://github.com/tranbaokien2005/movie-search-android-app)
 
 🛍️ Shopee UI Clone (HTML/CSS/JS)
 A responsive eCommerce interface inspired by Shopee Vietnam.
