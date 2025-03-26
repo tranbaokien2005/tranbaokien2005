@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tranbaokien2005/tranbaokien2005/refs/heads/main/assets/%23B22222%20(1).gif" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/tranbaokien2005/tranbaokien2005/refs/heads/main/assets/%23B22222.gif" alt="Hi I'm Tran Bao Kien banner" />
 </p>
+
 
 
 <p align="center">
