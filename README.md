@@ -56,7 +56,18 @@ Built with React & Tailwind CSS to showcase personal skills.
 
 ## 📬 Connect With Me
 
-<p align="center"> <a href="mailto:tranbaokien.2005@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email_Me-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/> </a>&nbsp; <a href="https://www.linkedin.com/in/bao-kien-tran"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>&nbsp; <a href="https://github.com/tranbaokien2005"> <img src="https://img.shields.io/badge/GitHub-tranbaokien2005-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/> </a> </p>
+<p align="center">
+  <a href="mailto:tranbaokien.2005@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bao-kien-tran">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/tranbaokien2005">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 <hr/>
 
