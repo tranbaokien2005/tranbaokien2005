@@ -38,6 +38,8 @@ Others         : REST APIs, MVC, MVVM, JWT, Firebase
 
 ## 🚀 Projects  
 
+> Here are some of the projects I’ve been working on recently:
+
 | Project | Description |
 |--------|-------------|
 | 📱 [**Movie Search Android App**](https://github.com/tranbaokien2005/movie-search-android-app) | Built with MVVM, LiveData, and Retrofit. Fetches movie data using OMDB API. |
