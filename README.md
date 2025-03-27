@@ -36,7 +36,7 @@ Others         : REST APIs, MVC, MVVM, JWT, Firebase
 
 <hr/>
 
-🚀 Projects
+## 🚀 Projects  
 🎬 [Movie Search Android App](https://github.com/tranbaokien2005/movie-search-android-app) - 
 Built with MVVM, LiveData, and Retrofit. Fetches movie data using OMDB API.
 
@@ -47,15 +47,15 @@ A responsive eCommerce interface inspired by Shopee Vietnam.
 Built with React & Tailwind CSS to showcase personal skills.
 
 <hr/>
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tranbaokien2005&show_icons=true&theme=github_dark" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaokien2005&layout=compact&theme=github_dark" height="180"/> </p>
 
 <hr/>
-📬 Connect With Me
+## 📬 Connect With Me
 <p align="center"> <a href="mailto:tranbaokien.2005@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email_Me-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/> </a>&nbsp; <a href="https://www.linkedin.com/in/bao-kien-tran"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>&nbsp; <a href="https://github.com/tranbaokien2005"> <img src="https://img.shields.io/badge/GitHub-tranbaokien2005-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/> </a> </p>
 
 <hr/>
-🔥 Highlights
+## 🔥 Highlights
 🔧 Currently building my Portfolio Website using React and Tailwind CSS.
 
 🧠 Practicing Data Structures & Algorithms daily via LeetCode.
