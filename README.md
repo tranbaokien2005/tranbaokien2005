@@ -22,7 +22,7 @@
 - 🧠 Exploring **Data Structures & Algorithms** for technical interviews.
 - 🌟 Dreaming big: aiming to intern at top **tech companies** and grow into a world-class **Software Engineer**.
 
----
+<hr/>
 
 ## 🛠 Tech Stack
 
