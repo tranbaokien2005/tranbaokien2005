@@ -48,9 +48,10 @@ Others         : REST APIs, MVC, MVVM, JWT, Firebase
 Full-stack web app built with **Node.js (Express)** + **Vite/React**. Fetches & normalizes news from RSS feeds, caches results, and provides **AI-powered summaries** (OpenAI). CI/CD via GitHub Actions + Vercel/Render.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tranbaokien2005/tranbaokien2005/main/assets/news-tracker-ui.png" alt="News Tracker AI UI" width="700"/>
-</p> |
-
+  <img src="https://raw.githubusercontent.com/tranbaokien2005/news-tracker-ai/main/assets/news-tracker-ui.png" alt="News Tracker AI UI" width="100%"/>
+  <br/>
+  <i>Screenshot of the live News Tracker AI app (deployed on Vercel)</i>
+</p>
 
 | 📱 [**Movie Search Android App**](https://github.com/tranbaokien2005/movie-search-android-app) | Built with MVVM, LiveData, and Retrofit. Fetches movie data using OMDB API. |
 | 🛒 **Shopee UI Clone (HTML/CSS/JS)** | A responsive eCommerce interface inspired by Shopee Vietnam. |
