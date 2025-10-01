@@ -89,7 +89,7 @@ Personal portfolio built with **React + Tailwind CSS** to showcase projects and 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ```yaml
 Languages      : JavaScript, Java, Python, C++, SQL  
