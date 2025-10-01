@@ -14,23 +14,63 @@
 
 ## 🚀 Projects
 
-> Here are some of the projects I’ve been working on recently:
-
-| Project | Description |
-| ------- | ----------- |
-| 🌐 [**News Tracker AI**](https://news-tracker-ai.vercel.app) <br> [![Vercel](https://vercelbadge.vercel.app/api/tranbaokien2005/news-tracker-ai)](https://news-tracker-ai.vercel.app) [![CI](https://github.com/tranbaokien2005/news-tracker-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/tranbaokien2005/news-tracker-ai/actions/workflows/ci.yml) [![Backend](https://img.shields.io/website?url=https%3A%2F%2Fnews-tracker-api.onrender.com%2Fapi%2Fv1%2Fhealth&label=Backend&logo=render&color=blue)](https://news-tracker-api.onrender.com/api/v1/health) <br> 🔹 [Frontend Repo](https://github.com/tranbaokien2005/news-tracker-fe) · 🔹 [Backend Repo](https://github.com/tranbaokien2005/news-tracker-be) | Full-stack web app built with **Node.js (Express)** + **Vite/React**. Fetches & normalizes news from RSS feeds, caches results, and provides **AI-powered summaries** (OpenAI). CI/CD via GitHub Actions + Vercel/Render. |
-
-<p align="center">
-  <img src="./assets/news-tracker-ui.png" alt="News Tracker AI UI" width="100%" />
-  <br/>
-  <i>Screenshot of the live News Tracker AI app (deployed on Vercel)</i>
-</p>
-
-| 📱 [**Movie Search Android App**](https://github.com/tranbaokien2005/movie-search-android-app) | Built with MVVM, LiveData, and Retrofit. Fetches movie data using OMDB API. |
-| 🛒 **Shopee UI Clone (HTML/CSS/JS)** | A responsive eCommerce interface inspired by Shopee Vietnam. |
-| 🌐 *Portfolio Website (In Progress)* | Built with React & Tailwind CSS to showcase personal skills. |
+> A few selected projects I’m proud of. Click to expand screenshots.
 
 ---
+
+### 🌐 News Tracker AI
+[Live](https://news-tracker-ai.vercel.app) · [Frontend Repo](https://github.com/tranbaokien2005/news-tracker-fe) · [Backend Repo](https://github.com/tranbaokien2005/news-tracker-be)  
+[![Vercel](https://vercelbadge.vercel.app/api/tranbaokien2005/news-tracker-ai)](https://news-tracker-ai.vercel.app)
+[![CI](https://github.com/tranbaokien2005/news-tracker-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/tranbaokien2005/news-tracker-ai/actions/workflows/ci.yml)
+[![Backend Health](https://img.shields.io/website?url=https%3A%2F%2Fnews-tracker-api.onrender.com%2Fapi%2Fv1%2Fhealth&label=Backend&logo=render&color=blue)](https://news-tracker-api.onrender.com/api/v1/health)
+
+**Full-stack web app** (Node.js/Express + Vite/React) tổng hợp RSS, cache kết quả và tạo **AI summaries**.  
+**Highlights:** caching theo hash, rate-limit middleware, CI/CD (GitHub Actions → Vercel/Render).
+
+**Tech:** `TypeScript` · `Node.js` · `Express` · `React` · `Vite` · `MongoDB` · `OpenAI API`
+
+<details>
+  <summary>📸 Screenshots (click to expand)</summary>
+
+  <p align="center">
+    <img src="./assets/news-tracker-ui.png" alt="News Tracker AI UI" width="100%" />
+    <br/>
+    <i>Screenshot of the live News Tracker AI app (deployed on Vercel)</i>
+  </p>
+</details>
+
+---
+
+### 📱 Movie Search Android App
+[Repo](https://github.com/tranbaokien2005/movie-search-android-app)
+
+Ứng dụng Android dùng **OMDb API**, kiến trúc **MVVM + LiveData + ViewBinding**, hỗ trợ CRUD danh sách phim yêu thích (Firestore).
+
+**Tech:** `Java/Kotlin` · `MVVM` · `LiveData` · `Retrofit` · `Firebase Auth` · `Firestore`
+
+**Key features:**
+- 🔍 Tìm kiếm + xem chi tiết phim (OMDb)
+- 💾 Lưu/ sửa/ xoá movie yêu thích (Firestore)
+- 🔐 Đăng nhập/ đăng ký bằng Firebase Auth
+
+---
+
+### 🛒 Shopee UI Clone (HTML/CSS/JS)
+Giao diện eCommerce **responsive** mô phỏng Shopee, tập trung vào layout, grid system và componentization.
+
+**Tech:** `HTML` · `CSS` · `JavaScript`  
+**Key features:** navbar sticky, mega-menu, product card, responsive grid, dark theme base.
+
+---
+
+### 🌐 Portfolio Website (In Progress)
+Trang portfolio cá nhân xây bằng **React + Tailwind CSS** để trưng bày project và blog kỹ thuật.
+
+**Tech:** `React` · `Tailwind CSS` · `Vite`  
+**Planned:** blog MDX, project filter, deploy Vercel, SEO cơ bản.
+
+---
+
 
 ## 💖 About Me
 
