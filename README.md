@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/tranbaokien2005/tranbaokien2005/refs/heads/main/assets/%23B22222.gif" alt="Hi I'm Tran Bao Kien banner" />
 </p>
 
-
-
 <p align="center">
   <b>Aspiring Software Engineer | Computer Science Student | Based in Barrie, Canada</b>
 </p>
@@ -32,41 +30,32 @@ Web Dev        : HTML, CSS, React, Node.js, Express
 Database       : MongoDB, MySQL  
 Tools          : Git, GitHub, VS Code, Postman  
 Others         : REST APIs, MVC, MVVM, JWT, Firebase
-```
+````
 
 <hr/>
 
-## 🚀 Projects  
+## 🚀 Projects
 
 > Here are some of the projects I’ve been working on recently:
 
-| Project | Description |
-|--------|-------------|
+| Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Description                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌐 [**News Tracker AI**](https://news-tracker-ai.vercel.app) <br> [![Vercel](https://vercelbadge.vercel.app/api/tranbaokien2005/news-tracker-ai)](https://news-tracker-ai.vercel.app) [![CI](https://github.com/tranbaokien2005/news-tracker-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/tranbaokien2005/news-tracker-ai/actions/workflows/ci.yml) [![Backend](https://img.shields.io/website?url=https%3A%2F%2Fnews-tracker-api.onrender.com%2Fapi%2Fv1%2Fhealth\&label=Backend\&logo=render\&color=blue)](https://news-tracker-api.onrender.com/api/v1/health) <br> 🔹 [Frontend Repo](https://github.com/tranbaokien2005/news-tracker-fe) · 🔹 [Backend Repo](https://github.com/tranbaokien2005/news-tracker-be) | Full-stack web app built with **Node.js (Express)** + **Vite/React**. Fetches & normalizes news from RSS feeds, caches results, and provides **AI-powered summaries** (OpenAI). CI/CD via GitHub Actions + Vercel/Render. |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tranbaokien2005/news-tracker-ai/main/assets/news-tracker-ui.png" alt="News Tracker AI UI" width="700"/>
+</p>
+
 | 📱 [**Movie Search Android App**](https://github.com/tranbaokien2005/movie-search-android-app) | Built with MVVM, LiveData, and Retrofit. Fetches movie data using OMDB API. |
 | 🛒 **Shopee UI Clone (HTML/CSS/JS)** | A responsive eCommerce interface inspired by Shopee Vietnam. |
 | 🌐 *Portfolio Website (In Progress)* | Built with React & Tailwind CSS to showcase personal skills. |
 
 <hr/>
 
-## 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tranbaokien2005&show_icons=true&theme=github_dark" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaokien2005&layout=compact&theme=github_dark" height="180"/> </p>
-
-<hr/>
-
-## 📬 Connect With Me
-
-<p align="center">
-  📧 <a href="mailto:tranbaokien.2005@gmail.com">tranbaokien.2005@gmail.com</a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/bao-kien-tran">LinkedIn</a> &nbsp;|&nbsp;
-  🐙 <a href="https://github.com/tranbaokien2005">GitHub</a>
-</p>
-
-
-
-<hr/>
-
 ## 🔥 Highlights
+
+📰 Built **News Tracker AI** — a portfolio-ready full-stack project (Node.js + React + OpenAI).
+→ Features: RSS parsing, caching, AI summarization, rate limiting, CI/CD pipelines, and production deployment (Render + Vercel).
 
 🔧 Currently building my Portfolio Website using React and Tailwind CSS.
 
@@ -77,6 +66,25 @@ Others         : REST APIs, MVC, MVVM, JWT, Firebase
 📱 Built an Android app to showcase both frontend & backend capabilities.
 
 💼 Aiming to become a Software Engineer who builds meaningful tech solutions.
+
+<hr/>
+
+## 📊 GitHub Stats
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=tranbaokien2005&show_icons=true&theme=github_dark" height="180"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaokien2005&layout=compact&theme=github_dark" height="180"/> 
+</p>
+
+<hr/>
+
+## 📬 Connect With Me
+
+<p align="center">
+  📧 <a href="mailto:tranbaokien.2005@gmail.com">tranbaokien.2005@gmail.com</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/bao-kien-tran">LinkedIn</a> &nbsp;|&nbsp;
+  🐙 <a href="https://github.com/tranbaokien2005">GitHub</a>
+</p>
 
 <hr/>
 
@@ -97,7 +105,3 @@ Others         : REST APIs, MVC, MVVM, JWT, Firebase
 <p align="center">
   <img src="https://raw.githubusercontent.com/tranbaokien2005/tranbaokien2005/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-
-
-
