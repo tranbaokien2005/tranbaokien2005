@@ -48,7 +48,7 @@ Others         : REST APIs, MVC, MVVM, JWT, Firebase
 Full-stack web app built with **Node.js (Express)** + **Vite/React**. Fetches & normalizes news from RSS feeds, caches results, and provides **AI-powered summaries** (OpenAI). CI/CD via GitHub Actions + Vercel/Render.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tranbaokien2005/news-tracker-ai/main/assets/news-tracker-ui.png" alt="News Tracker AI UI" width="100%"/>
+  <img src="./assets/news-tracker-ui.png" alt="News Tracker AI UI" width="100%" />
   <br/>
   <i>Screenshot of the live News Tracker AI app (deployed on Vercel)</i>
 </p>
