@@ -12,16 +12,16 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 > A few selected projects I’m proud of. Click to expand screenshots.
 
 ---
 
-### 🌐 News Tracker AI
-[🔗 Live Demo](https://news-tracker-ai.vercel.app) ·
-[💻 Frontend Repo](https://github.com/tranbaokien2005/news-tracker-fe) ·
-[🛠 Backend Repo](https://github.com/tranbaokien2005/news-tracker-be)  
+### News Tracker AI
+[Live Demo](https://news-tracker-ai.vercel.app) ·
+[Frontend Repo](https://github.com/tranbaokien2005/news-tracker-fe) ·
+[Backend Repo](https://github.com/tranbaokien2005/news-tracker-be)  
 
 ![Vercel](https://vercelbadge.vercel.app/api/tranbaokien2005/news-tracker-ai)
 ![CI](https://github.com/tranbaokien2005/news-tracker-ai/actions/workflows/ci.yml/badge.svg)
@@ -44,22 +44,22 @@
 
 ---
 
-### 📱 Movie Search Android App
-[📦 Repository](https://github.com/tranbaokien2005/movie-search-android-app)
+### Movie Search Android App
+[Repository](https://github.com/tranbaokien2005/movie-search-android-app)
 
 Android app using **OMDb API** with **MVVM**, **LiveData**, **ViewBinding**; supports CRUD of favorite movies via **Firebase Firestore** and auth via **Firebase Auth**.
 
 **Tech:** `Java/Kotlin` · `MVVM` · `LiveData` · `Retrofit` · `Firebase Auth` · `Firestore`
 
 **Key features:**
-- 🔍 Search and view movie details (OMDb)
-- 💾 Create / update / delete favorites (Firestore)
-- 🔐 Email/password authentication (Firebase)
+- Search and view movie details (OMDb)
+- Create / update / delete favorites (Firestore)
+- Email/password authentication (Firebase)
 
 ---
 
-### 🛒 Shopee UI Clone (HTML/CSS/JS)
-[📦 Repository](#) <!-- add your repo link here -->
+### Shopee UI Clone (HTML/CSS/JS)
+[Repository](#) <!-- add your repo link here -->
 
 Responsive eCommerce interface inspired by Shopee. Focused on layout system, components, and interaction patterns.
 
@@ -68,8 +68,8 @@ Responsive eCommerce interface inspired by Shopee. Focused on layout system, com
 
 ---
 
-### 🌐 Portfolio Website (In Progress)
-[🔗 Preview](#) · [📦 Repository](#) <!-- add links when ready -->
+### Portfolio Website (In Progress)
+[Preview](#) · [Repository](#) <!-- add links when ready -->
 
 Personal portfolio built with **React + Tailwind CSS** to showcase projects and write technical notes.
 
@@ -79,13 +79,13 @@ Personal portfolio built with **React + Tailwind CSS** to showcase projects and 
 ---
 
 
-## 💖 About Me
+## About Me
 
-- 🎓 Currently pursuing a Bachelor’s degree in **Computer Science** (Georgian College & Lakehead University).  
-- 🚀 Passionate about **Software Development** & **Web Technologies**.  
-- 📚 Always learning — currently focused on **JavaScript**, **React**, and **System Design**.  
-- 🧠 Exploring **Data Structures & Algorithms** for technical interviews.  
-- 🌟 Dreaming big: aiming to intern at top **tech companies** and grow into a world-class **Software Engineer**.  
+- Currently pursuing a Bachelor’s degree in **Computer Science** (Georgian College & Lakehead University).  
+- Passionate about **Software Development** & **Web Technologies**.  
+- Always learning — currently focused on **JavaScript**, **React**, and **System Design**.  
+- Exploring **Data Structures & Algorithms** for technical interviews.  
+- Dreaming big: aiming to intern at top **tech companies** and grow into a world-class **Software Engineer**.  
 
 ---
 
@@ -101,24 +101,24 @@ Others         : REST APIs, MVC, MVVM, JWT, Firebase
 
 ---
 
-## 🔥 Highlights
+## Highlights
 
-📰 Built **News Tracker AI** — a portfolio-ready full-stack project (Node.js + React + OpenAI).
+Built **News Tracker AI** — a portfolio-ready full-stack project (Node.js + React + OpenAI).
 → Features: RSS parsing, caching, AI summarization, rate limiting, CI/CD pipelines, and production deployment (Render + Vercel).
 
-🔧 Currently building my Portfolio Website using React and Tailwind CSS.
+Currently building my Portfolio Website using React and Tailwind CSS.
 
-🧠 Practicing Data Structures & Algorithms daily via LeetCode.
+Practicing Data Structures & Algorithms daily via LeetCode.
 
-🧑‍💻 Developed UI projects (like Shopee Clone) to master responsive web design.
+Developed UI projects (like Shopee Clone) to master responsive web design.
 
-📱 Built an Android app to showcase both frontend & backend capabilities.
+Built an Android app to showcase both frontend & backend capabilities.
 
-💼 Aiming to become a Software Engineer who builds meaningful tech solutions.
+Aiming to become a Software Engineer who builds meaningful tech solutions.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=tranbaokien2005&show_icons=true&theme=github_dark" height="180"/> 
@@ -127,12 +127,12 @@ Others         : REST APIs, MVC, MVVM, JWT, Firebase
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p align="center">
-  📧 <a href="mailto:tranbaokien.2005@gmail.com">tranbaokien.2005@gmail.com</a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/bao-kien-tran">LinkedIn</a> &nbsp;|&nbsp;
-  🐙 <a href="https://github.com/tranbaokien2005">GitHub</a>
+  <a href="mailto:tranbaokien.2005@gmail.com">tranbaokien.2005@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/bao-kien-tran">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/tranbaokien2005">GitHub</a>
 </p>
 
 ---
@@ -141,7 +141,7 @@ Others         : REST APIs, MVC, MVVM, JWT, Firebase
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tranbaokien2005&theme=algolia&margin-w=10&margin-h=10"/>
@@ -149,7 +149,7 @@ Others         : REST APIs, MVC, MVVM, JWT, Firebase
 
 ---
 
-## 🐍 GitHub Contributions Snake
+## GitHub Contributions Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tranbaokien2005/tranbaokien2005/output/github-contribution-grid-snake.svg" alt="Snake animation" />
