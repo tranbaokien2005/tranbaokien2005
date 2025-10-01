@@ -19,13 +19,16 @@
 ---
 
 ### 🌐 News Tracker AI
-[Live](https://news-tracker-ai.vercel.app) · [Frontend Repo](https://github.com/tranbaokien2005/news-tracker-fe) · [Backend Repo](https://github.com/tranbaokien2005/news-tracker-be)  
-[![Vercel](https://vercelbadge.vercel.app/api/tranbaokien2005/news-tracker-ai)](https://news-tracker-ai.vercel.app)
-[![CI](https://github.com/tranbaokien2005/news-tracker-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/tranbaokien2005/news-tracker-ai/actions/workflows/ci.yml)
-[![Backend Health](https://img.shields.io/website?url=https%3A%2F%2Fnews-tracker-api.onrender.com%2Fapi%2Fv1%2Fhealth&label=Backend&logo=render&color=blue)](https://news-tracker-api.onrender.com/api/v1/health)
+[🔗 Live Demo](https://news-tracker-ai.vercel.app) ·
+[💻 Frontend Repo](https://github.com/tranbaokien2005/news-tracker-fe) ·
+[🛠 Backend Repo](https://github.com/tranbaokien2005/news-tracker-be)  
 
-**Full-stack web app** (Node.js/Express + Vite/React) tổng hợp RSS, cache kết quả và tạo **AI summaries**.  
-**Highlights:** caching theo hash, rate-limit middleware, CI/CD (GitHub Actions → Vercel/Render).
+![Vercel](https://vercelbadge.vercel.app/api/tranbaokien2005/news-tracker-ai)
+![CI](https://github.com/tranbaokien2005/news-tracker-ai/actions/workflows/ci.yml/badge.svg)
+![API Health](https://img.shields.io/website?url=https%3A%2F%2Fnews-tracker-api.onrender.com%2Fapi%2Fv1%2Fhealth&label=API%20Health&logo=render&color=blue)
+
+**Full-stack web app** (Node.js/Express + Vite/React) that aggregates RSS feeds, normalizes content, caches results, and generates **AI-powered summaries**.  
+**Highlights:** input normalization + hashing cache, rate-limit middleware, CI/CD (GitHub Actions → Vercel/Render).
 
 **Tech:** `TypeScript` · `Node.js` · `Express` · `React` · `Vite` · `MongoDB` · `OpenAI API`
 
@@ -42,32 +45,36 @@
 ---
 
 ### 📱 Movie Search Android App
-[Repo](https://github.com/tranbaokien2005/movie-search-android-app)
+[📦 Repository](https://github.com/tranbaokien2005/movie-search-android-app)
 
-Ứng dụng Android dùng **OMDb API**, kiến trúc **MVVM + LiveData + ViewBinding**, hỗ trợ CRUD danh sách phim yêu thích (Firestore).
+Android app using **OMDb API** with **MVVM**, **LiveData**, **ViewBinding**; supports CRUD of favorite movies via **Firebase Firestore** and auth via **Firebase Auth**.
 
 **Tech:** `Java/Kotlin` · `MVVM` · `LiveData` · `Retrofit` · `Firebase Auth` · `Firestore`
 
 **Key features:**
-- 🔍 Tìm kiếm + xem chi tiết phim (OMDb)
-- 💾 Lưu/ sửa/ xoá movie yêu thích (Firestore)
-- 🔐 Đăng nhập/ đăng ký bằng Firebase Auth
+- 🔍 Search and view movie details (OMDb)
+- 💾 Create / update / delete favorites (Firestore)
+- 🔐 Email/password authentication (Firebase)
 
 ---
 
 ### 🛒 Shopee UI Clone (HTML/CSS/JS)
-Giao diện eCommerce **responsive** mô phỏng Shopee, tập trung vào layout, grid system và componentization.
+[📦 Repository](#) <!-- add your repo link here -->
+
+Responsive eCommerce interface inspired by Shopee. Focused on layout system, components, and interaction patterns.
 
 **Tech:** `HTML` · `CSS` · `JavaScript`  
-**Key features:** navbar sticky, mega-menu, product card, responsive grid, dark theme base.
+**Key features:** sticky navbar, mega menu, product cards, responsive grid, dark-friendly palette.
 
 ---
 
 ### 🌐 Portfolio Website (In Progress)
-Trang portfolio cá nhân xây bằng **React + Tailwind CSS** để trưng bày project và blog kỹ thuật.
+[🔗 Preview](#) · [📦 Repository](#) <!-- add links when ready -->
+
+Personal portfolio built with **React + Tailwind CSS** to showcase projects and write technical notes.
 
 **Tech:** `React` · `Tailwind CSS` · `Vite`  
-**Planned:** blog MDX, project filter, deploy Vercel, SEO cơ bản.
+**Planned:** MDX blog, project filters, Vercel deploy, basic SEO.
 
 ---
 
